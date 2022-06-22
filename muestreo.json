@@ -1,4 +1,4 @@
 [
 {"url":sonido.wav","type":"audio","bank":"machine","n":0},
-{"url":registro.mp3.","type":"audio","bank":"ruido","n":0},
+{"url":registro.mp3.","type":"audio","bank":"ruido","n":1},
 ]
